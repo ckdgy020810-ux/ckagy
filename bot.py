@@ -2,7 +2,7 @@ import discord
 import os
 
 TOKEN = os.environ["TOKEN"]
-CHANNEL_ID = 123456789  # 너 채널 ID로 바꾸기
+CHANNEL_ID = 1534736518542000300
 
 intents = discord.Intents.default()
 intents.message_content = True
